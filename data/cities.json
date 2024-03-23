@@ -25,27 +25,27 @@
       "id": "17806751"
     },
     {
-      "id": "967d",
-      "cityName": "Ligurian Sea Cetacean Sanctuary",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-03-22T16:43:45.797Z",
+      "id": "674d",
+      "cityName": "Kirklareli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-22T17:09:26.650Z",
       "notes": "",
       "position": {
-        "lat": "43.71072798347072",
-        "lng": "7.470703125000001"
+        "lat": "41.748026169517104",
+        "lng": "27.257080078125"
       }
     },
     {
-      "id": "2347",
-      "cityName": "Johannesburg",
-      "country": "South Africa",
-      "emoji": "🇿🇦",
-      "date": "2024-03-22T16:45:53.624Z",
+      "id": "c8ca",
+      "cityName": "Xanthi",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-03-22T17:09:36.579Z",
       "notes": "",
       "position": {
-        "lat": "-26.202137027289528",
-        "lng": "28.086547851562504"
+        "lat": "41.137107795115796",
+        "lng": "24.88690853118897"
       }
     }
   ]
